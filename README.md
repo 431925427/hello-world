@@ -1,2 +1,2 @@
 # hello-world
-This is my first github project
+I wanna be a good programer
